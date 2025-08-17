@@ -1,0 +1,6 @@
+[requires]
+catch2/3.9.1
+
+[generators]
+MesonToolchain
+PkgConfigDeps

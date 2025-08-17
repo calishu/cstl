@@ -1,0 +1,6 @@
+option(
+  'BUILD_TEST',
+  type: 'boolean',
+  value: false,
+  description: 'This compiles the headers',
+)
