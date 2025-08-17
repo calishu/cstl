@@ -1,0 +1,8 @@
+# --- ide meta data
+idea/
+vscode/
+
+# --- throwaway
+logs/
+build/
+.cache/
