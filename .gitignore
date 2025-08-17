@@ -1,8 +1,26 @@
-# --- ide meta data
-idea/
-vscode/
+# --- IDE meta data
+.idea/
+.vscode/
 
-# --- throwaway
+# --- disposable files/directories
 logs/
 build/
 .cache/
+*.log
+callgrind.*
+
+# --- build related files
+build/
+
+# - executables
+*.out
+*.exe
+*.elf
+*.bin
+
+# - libraries
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
