@@ -1,5 +1,7 @@
-# cstl
-A project trying to recreate the features of the `Standard Template Library` (`STL`) in **C**.
+# CSTL
+A project trying to recreate the features of the `Standard Template Library` (`STL`) in **C++**.
+
+---
 
 > [!CAUTION]
 > The project is still in heavy development and will not work as expected.
